@@ -1,2 +1,2 @@
 # Ecommerce-BackEnd
-Ecommerce back end with JWY Spring role based security  .
+Ecommerce back end with JWT Spring role based security  .
